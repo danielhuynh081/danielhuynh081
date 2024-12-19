@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying UI and Java Applications
 - 💬 Ask me about how many miles I ran this week 🐛
 - 📫 How to reach me dahuynh@pdx.edu
-- 
+  
 ## Connect with me:
 
 <!--
