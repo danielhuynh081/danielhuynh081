@@ -5,8 +5,10 @@
 - 💬 Ask me about how many miles I ran this week 🐛
 - 📫 How to reach me dahuynh@pdx.edu
   
-## Connect with me:
 
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,androidstudio)](https://skillicons.dev)
 <!--
 **danielhuynh081/danielhuynh081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +18,5 @@
 - 💬 Ask me about how many miles I ran this week 🐛
 - 📫 How to reach me dahuynh@pdx.edu
 # Connect with me:
-
+:### Connect with me
 -->
