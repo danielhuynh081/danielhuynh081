@@ -8,7 +8,7 @@
 
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,androidstudio,html,css)](https://skillicons.dev)
 <!--
 **danielhuynh081/danielhuynh081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
