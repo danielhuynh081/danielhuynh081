@@ -2,7 +2,7 @@
 
 - 📖 I’m currently working on my portfolio website
 - 🌱 I’m currently studying UI and Java Applications
-- 💬 Ask me about how many miles I ran this week 🐛
+- 💬 Ask me about how many miles I ran this week (0) 🐛
 - 📫 How to reach me dahuynh@pdx.edu
   
 
