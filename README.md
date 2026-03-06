@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 📖 I’m currently working on my portfolio website
-- 🌱 I’m currently studying UI and Java Applications
-- 💬 Ask me about how many miles I ran this week 🐛
-- 📫 How to reach me dahuynh@pdx.edu
+- 📖 I’m currently working on a sports app project
+- 🌱 I’m currently studying Web Sockets and Full Stack Applications
+- 📫 How to reach me danielhuynh082@gmail.com
   
 
 
