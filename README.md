@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 📖 I’m currently working on a sports app project
-- 🌱 I’m currently studying Web Sockets and Full Stack Applications
+- 📖 I’m currently working on a File clean up project and task tracker
+- 🌱 I’m currently refining my C++ skills and brainstorming possible bash script projects
 - 📫 How to reach me danielhuynh082@gmail.com
   
 
