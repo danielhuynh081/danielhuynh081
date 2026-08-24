@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📖 I’m currently working on a File clean up project and task tracker
+- 📖 I’m currently working on a duo programming IDE project for remote paired programming
 - 🌱 I’m currently refining my C++ skills and brainstorming possible bash script projects
 - 📫 How to reach me danielhuynh082@gmail.com
   
