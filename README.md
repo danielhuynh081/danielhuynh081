@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 📖 I’m currently working LSM Key Value store program
-- 🌱 I’m currently refining my C++ skills and brainstorming possible bash script projects
+- 📖 I’m currently reading "The Mysterious Case of the Alperton Angels: A Novel"
+- 🌱 I’m also working on a LSM Tree Key Value storage program & refining my C++ skills
 - 📫 How to reach me danielhuynh082@gmail.com
   
 
